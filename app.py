@@ -1,8 +1,10 @@
-"""This code snippet is written in Python and it demonstrates the use of the Flask framework. 
+"""
+This code snippet is written in Python and it demonstrates the use of the Flask framework. 
 The Flask module is imported from the flask package. Flask is a popular web framework in Python
 that allows developers to build web applications easily and efficiently. By importing the Flask
 module, we can create an instance of the Flask application and start building our web application 
-using its features and functionalities."""
+using its features and functionalities.
+"""
 
 
 
