@@ -1,6 +1,7 @@
 # init.py
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
+from helper import pets
 
 # Skapa en Flask-applikation
 app = Flask(__name__)
