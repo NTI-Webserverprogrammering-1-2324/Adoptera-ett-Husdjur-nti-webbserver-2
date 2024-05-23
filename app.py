@@ -11,9 +11,8 @@ from flask import redirect, render_template, url_for
 
 from init import app, db, pets
 
-from helper import pets  # Importing the pets data from a helper module
 
-app = Flask(__name__)
+
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
